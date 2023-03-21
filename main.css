@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+
+.col1{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.text_color{
+    color: #1d3fb1;
+}
+
+h1 {
+    font-size: 33.6px;
+    line-height: 33.6px;
+    font-weight: 400;
+}
+
+input {
+    width: 100%!important;
+    margin: 8px 0 0;
+    padding-left: 0;
+    padding-right: 0;
+}    
+
+input {
+    border: 2px solid #afafaf;
+    padding: 10px;
+    background-color: #fff;
+}
+
+
+.row {
+    box-sizing: border-box!important;
+}
+
+div {
+    text-align: -webkit-match-parent;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+input {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    list-style: none;
+}
+
+input {
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+#input1 {
+    border-radius: 0;
+    border: 2px solid #c3c1c1;
+    height: 60px;
+}
+
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #444;
+    -webkit-font-smoothing: antialiased;
+    font-size: 36px;
+    line-height: 36px;
+}
